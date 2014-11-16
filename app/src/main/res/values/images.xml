@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="melon">@drawable/melon</drawable>
+    <drawable name="glasses">@drawable/glasses</drawable>
+    <drawable name="billiard">@drawable/biliard</drawable>
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="black">#000000</drawable>
+    <drawable name="green">#00FF00</drawable>
+</resources>
